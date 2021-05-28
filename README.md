@@ -32,7 +32,7 @@ I ❤ Open Source.
 
 > 🏆 34 Contributions in the Year 2021
  > 
-> 📦 882.4 kB Used in Github's Storage 
+> 📦 882.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
