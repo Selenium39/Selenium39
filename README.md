@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* use many languages: **Java**,**Nodejs**,**Python** ...
+* use many languages: **Nodejs**,**Java**,**Python** ...
 * want to be a Web Architect
 
 
