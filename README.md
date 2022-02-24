@@ -19,10 +19,11 @@ I ❤ Open Source.
 
 * use many languages: **Nodejs**,**Java**,**Python** ...
 * want to be a Web Architect
+* learning rust now
 
 
-[![wantao666's github stats](https://github-readme-stats.vercel.app/api?username=wantao666&count_private=true&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wantao666&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![wantao666's github stats](https://github-readme-stats.vercel.app/api?username=Selenium39&count_private=true&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selenium39&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 Reach me 
