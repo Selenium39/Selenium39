@@ -27,6 +27,10 @@ I ❤ Open Source.
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![card](https://github.com/Selenium39/netease-cloud-music-card/blob/main/card.svg)
