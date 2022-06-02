@@ -28,9 +28,10 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 5 mins    ████████████████████████░   95.87 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   5 hrs 14 mins   ██████████████████░░░░░░░   72.53 %
+Vue.js       1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
