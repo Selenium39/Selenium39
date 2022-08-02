@@ -28,7 +28,8 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-Rust   8 mins          █████████████████████████   100.00 %
+Rust       20 mins         █████████████░░░░░░░░░░░░   52.55 %
+Markdown   18 mins         ████████████░░░░░░░░░░░░░   47.45 %
 ```
 
 <!--END_SECTION:waka-->
