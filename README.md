@@ -28,12 +28,7 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         16 mins         █████████████░░░░░░░░░░░░   51.58 %
-JSON         13 mins         ██████████▓░░░░░░░░░░░░░░   42.99 %
-TOML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
