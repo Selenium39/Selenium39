@@ -28,7 +28,12 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust         2 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   43.09 %
+Vue.js       2 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.84 %
+Markdown     41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
