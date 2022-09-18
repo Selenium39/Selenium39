@@ -28,12 +28,7 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         5 mins          ████████████▓░░░░░░░░░░░░   51.22 %
-YAML         2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-TOML         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-Markdown     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
