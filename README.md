@@ -28,7 +28,9 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TOML    7 mins          ███████████████▒░░░░░░░░░   61.89 %
+Rust    4 mins          █████████▒░░░░░░░░░░░░░░░   37.52 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
