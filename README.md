@@ -28,9 +28,7 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 mins         █████████████████████░░░░   84.52 %
-Git Config   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
