@@ -28,10 +28,8 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       1 hr 39 mins    █████████████▒░░░░░░░░░░░   52.99 %
-Markdown   1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   46.37 %
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   43 mins         ████████████████████████▓   98.58 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
