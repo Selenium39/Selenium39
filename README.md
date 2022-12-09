@@ -28,9 +28,7 @@ I ❤ Open Source.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       21 mins         ███████████████▒░░░░░░░░░   61.11 %
-Markdown   13 mins         █████████▒░░░░░░░░░░░░░░░   37.06 %
-EJS        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
