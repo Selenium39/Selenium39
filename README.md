@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 I ❤ Open Source.
 
-* use many languages: **Nodejs**,**Java**,**Python** ...
+* use many languages: **Nodejs**,**Java**,**Python**,**Rust**...
 * want to be a Web Architect
-* learning rust now 🦀
 
 [![wantao666's github stats](https://github-readme-stats.vercel.app/api?username=Selenium39&count_private=true&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selenium39&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,7 +28,6 @@ I ❤ Open Source.
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
-- 📧 <a href="mailto:896585122@qq.com">Email</a>
-- 📖 <a href = "https://blog.csdn.net/qq_45453266">CSDN</a>
+- 📧 <a href="mailto:selenium39@qq.com">Email</a>
 
 **Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.**
