@@ -24,6 +24,7 @@ Projects
 
 * 📮 https://chat-tempmail.com
 * 🌍 https://fwfw.app
+* 📄 https://llmocr.com
 * 📚 https://flowable.me
 * 🎮 https://chiikwa-pocket.me 
 * 🔧 https://e-ink.me 
