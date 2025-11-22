@@ -28,7 +28,6 @@ Projects
 * 🐮 https://mihoyonb.com
 * 📚 https://flowable.me
 * 🎮 https://chiikwa-pocket.me 
-* 🔧 https://e-ink.me 
 * ☕️ https://buyacoffeeto.me
 * 🍃 https://leafpdf.com
 
