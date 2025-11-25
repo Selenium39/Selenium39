@@ -29,6 +29,7 @@ Projects
 * 📚 https://flowable.me
 * 🎮 https://chiikwa-pocket.me 
 * ☕️ https://buyacoffeeto.me
+* 🖥️ https://e-ink.me
 * 🍃 https://leafpdf.com
 
 
