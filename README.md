@@ -27,8 +27,6 @@ Projects
 * 📄 https://llmocr.com
 * 🐮 https://mihoyonb.com
 * 📚 https://flowable.me
-* 🎮 https://chiikwa-pocket.me 
-* ☕️ https://buyacoffeeto.me
 * 🖥️ https://e-ink.me
 * 🍃 https://leafpdf.com
 
