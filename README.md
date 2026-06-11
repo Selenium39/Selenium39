@@ -24,11 +24,10 @@ Projects
 
 * 📮 https://chat-tempmail.com
 * 🌍 https://fwfw.app
-* 📄 https://llmocr.com
 * 🐮 https://mihoyonb.com
 * 📚 https://flowable.me
 * 🖥️ https://e-ink.me
-* 🍃 https://leafpdf.com
+* 🍠 https://xhslink.me
 
 ### 📫 Reach me 
 
