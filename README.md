@@ -1,7 +1,7 @@
 ### Hi there, I'm Selenium39 👋
 
 <!--
-**wantao666/wantao666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**selenium39/selenium39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I ❤ Open Source.
 
 * use many languages: **Nodejs**,**Java**,**Python**,**Rust**...
-* want to be a Web Architect
+* all in ai
 
 Projects
 
