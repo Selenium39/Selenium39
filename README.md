@@ -27,11 +27,11 @@ Projects
 * 🐮 https://mihoyonb.com
 * 📚 https://flowable.me
 * 🖥️ https://e-ink.me
-* 🍠 https://xhslink.me
+* 📖 https://iloveepub.com
 
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
-- 📧 <a href="mailto:selenium39@qq.com">Email</a>
+- 📧 <a href="mailto:openminimax@gmail.com">Email</a>
 
 **Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.**
